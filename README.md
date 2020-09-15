@@ -7,14 +7,14 @@ GOAL:
 Identify the unique features and requirements of a simulation or game:
 
 ●Manage a large scale simulation and/or game development with multiple necessary componentsamong:
-  ○ real-time animation and graphics rendering;
-  ○ simulation engine;○user controls;○autonomous agent controller;
-  ○ multi-user networking;○simulation data storage and retrieval;
-  ○ and/or server and client networking.
+  - real-time animation and graphics rendering;
+  - simulation engine;○user controls;○autonomous agent controller;
+  - multi-user networking;○simulation data storage and retrieval;
+  - and/or server and client networking.
 ●Investigate modern game and simulation design patterns to effectively manage the scale of the deployment.
-  ○ The update-render loop.
-  ○ Server-client models.○Discrete and continuous game engines.
-  ○ Agent focused design.
+  - The update-render loop.
+  - Server-client models.○Discrete and continuous game engines.
+  - Agent focused design.
   
 OUTCOME: 
 
